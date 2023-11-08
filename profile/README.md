@@ -1,6 +1,6 @@
 # QuickNode
 
-![QuickNode](assets/banner.png)
+![QuickNode](./assets/banner.png)
 
 Hey, there! Welcome to the QuickNode GitHub page. 👋
 
