@@ -1,6 +1,6 @@
 # QuickNode
 
-![QuickNode](https://raw.githubusercontent.com/quiknode-labs/.github/main/profile/assets/banner.png)
+![QuickNode](assets/banner.png)
 
 Hey, there! Welcome to the QuickNode GitHub page. 👋
 
